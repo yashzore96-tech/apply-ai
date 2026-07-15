@@ -1,31 +1,21 @@
 export default function Home() {
+  return (
+    <main
+      style={{
+        height: "100vh",
 
-    return (
+        display: "flex",
 
-        <main
+        justifyContent: "center",
 
-            style={{
+        alignItems: "center",
 
-                height: "100vh",
+        fontSize: "40px",
 
-                display: "flex",
-
-                justifyContent: "center",
-
-                alignItems: "center",
-
-                fontSize: "40px",
-
-                fontWeight: "bold",
-
-            }}
-
-        >
-
-            ApplyAI 🚀
-
-        </main>
-
-    );
-
+        fontWeight: "bold",
+      }}
+    >
+      ApplyAI 🚀
+    </main>
+  );
 }

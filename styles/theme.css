@@ -1,13 +1,13 @@
 :root {
-  --background: #0B1020;
+  --background: #0b1020;
   --surface: #111827;
-  --primary: #2563EB;
-  --secondary: #06B6D4;
-  --success: #10B981;
-  --warning: #F59E0B;
-  --danger: #EF4444;
-  --text: #F9FAFB;
-  --muted: #9CA3AF;
-  --border: #1F2937;
+  --primary: #2563eb;
+  --secondary: #06b6d4;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --text: #f9fafb;
+  --muted: #9ca3af;
+  --border: #1f2937;
   --radius: 16px;
 }
